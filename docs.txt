@@ -1,0 +1,4 @@
+Main engine is controlled from aleph object
+options include: 
+
+- Fullscreen mode
